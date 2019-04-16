@@ -1,5 +1,5 @@
 
-learning-threejs(second-r69)
+learning-threejs-second(r69)
 ================
 
 ## Second edition learning Three.js
@@ -21,4 +21,13 @@ learning-threejs(second-r69)
 GitHub上有本书的第三版的案例代码：learning-threejs-third。好像并没有发行第三版纸质书籍。现在市面上依然存在大量第二版，甚至第一版的书籍，仍是众多初学者的入门书籍，比如我。
 
 
-下次再整理一下第三版的案例列表，看看有什么新的变化，顺便把代码的版本提升到最新版本，该删的删，该增的增，做到与时俱进。
+我也整理一下第三版的案例列表（只有源码），和第二版相比除了版本号提高到了95，基本没太多的变化，对于一些函数则是该删的删，该增的增，做到了与时俱进。
+
+下面是两个版本的在线演示地址：
+
+
+#### [learning-threejs-second(r69)在线演示](https://scqilin.github.io/learning-threejs/)
+#### [learning-threejs-thrid(r95)在线演示](https://scqilin.github.io/learning-threejs-third/)
+
+
+
