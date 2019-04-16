@@ -6,9 +6,8 @@ learning-threejs-second(r69)
 本项目是Learning Three.js(Three.js 开发指南)第二版的案例代码，代码是基于r69版本的（目前r103版本）。
 
 案例列表经过简单的改造，改成类似three官网的案例那种样式，觉得那是一个完美的展示案例的方式，左边列表右边预览。
-并生成了pages,可以直接在网站中打开预览。
+并生成了pages,可以直接在网站中打开预览
 
-[案例地址](https://scqilin.github.io/learning-threejs/)
 
 注意：
 
